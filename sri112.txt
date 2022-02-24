@@ -1,3 +1,4 @@
 add this file to trigger CI 
 editngthis for CI/CD automatedly.
 created the new ci/cd job 
+runing fr th trai;
