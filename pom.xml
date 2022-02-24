@@ -252,14 +252,12 @@
         <artifactId>cargo-maven3-plugin</artifactId>
         <executions>
           <execution>
-            <id>start-container</id>
             <phase>pre-integration-test</phase>
             <goals>
               <goal>start</goal>
             </goals>
           </execution>
           <execution>
-            <id>stop-container</id>
             <phase>post-integration-test</phase>
             <goals>
               <goal>stop</goal>
